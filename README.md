@@ -17,15 +17,17 @@ React Native component that allows you to use a clickable button to perform a ce
 
 ## 🖼 Gallery
 
-![img1](https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img1.png)
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; flex-wrap: wrap"
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img1.png" alt="image 1" />
 
-![img2](https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img2.png)
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img2.png" alt="image 2" />
 
-![img3](https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img3.png)
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img3.png" alt="image 3" />
 
-![img4](https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img4.png)
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img4.png" alt="image 4" />
 
-![img5](https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img5.png)
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img5.png" alt="image 5" />
+</div>
 
 ## ❓ How to use
 1. Install the component
