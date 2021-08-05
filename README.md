@@ -75,6 +75,5 @@ See the documentation on how you can contribute to the project [here](https://gi
 ### /
 |        Name        |Type|Description|
 |----------------|-------------------------------|-----------------------------|
-|dist |`Directory`|Released versions|
 |docs |`Directory`|Documentation files|
 |src     |`Directory`| Source files|
