@@ -17,11 +17,11 @@ React Native component that allows you to use a clickable button to perform a ce
 
 ## 🖼 Gallery
 
-![img1](https://github.com/wniemiec-components-reactnative/selectable-button/blob/master/docs/img/img1.png)
+![img1](https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img1.png)
 
-![img2](https://github.com/wniemiec-components-reactnative/selectable-button/blob/master/docs/img/img2.png)
+![img2](https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img2.png)
 
-![img3](https://github.com/wniemiec-components-reactnative/selectable-button/blob/master/docs/img/img3.png)
+![img3](https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img3.png)
 
 ## ❓ How to use
 1. Install the component
