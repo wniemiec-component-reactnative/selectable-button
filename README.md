@@ -37,7 +37,7 @@ $ npm install --save @wniemiec-component-reactnative/selectable-button
 
 2. Import the component
 ```
-import WeekdaySelector from '@wniemiec-component-reactnative/selectable-button';
+import SelectableButton from '@wniemiec-component-reactnative/selectable-button';
 ```
 
 3. Use it
