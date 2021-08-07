@@ -65,10 +65,11 @@ const [isSelected, setIsSelected] = useState(true);
 |----------------|-------------------------------|-----------------------------|--------|
 |title |`string`|Button label | - |
 |onPress |`function(void): void`|Function that is called when the button is pressed| - |
-|selected |`bool`|Clicked status | - |
+|selected |`boolean`|Clicked status | - |
 |bgColor |`string`|Background color (in hexadecimal)  |`#01786F`|
 |fgColor |`string`|Foreground color (in hexadecimal)  |`#FFFFFF`|
 |size |`string`|Button size (`big`, `regular` or `small`)  |`regular`|
+|full |`boolean`|Indicates whether the width should be 100%  |`false`|
 
 ## 🚩 Changelog
 Details about each version are documented in the [releases section](https://github.com/wniemiec-components-reactnative/selectable-button/releases).

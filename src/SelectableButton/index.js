@@ -22,14 +22,15 @@ import styles from './styles';
  * @param   {string} bgColor: Background color (in hexadecimal) 
  * @param   {string} fgColor: Foreground color (in hexadecimal)
  * @param   {string} size: Button size
+ * @param   {boolean} full: Indicates whether the width should be 100%
  */
-export default function SelectableButton({ title, onPress, selected, bgColor="#01786F", fgColor="#ffffff", size='regular' }) {
+export default function SelectableButton({ title, onPress, selected, bgColor="#01786F", fgColor="#ffffff", size='regular', full=false }) {
 
   const factor = buildFactor(size.toLowerCase().trim());
 
   return (
     <TouchableOpacity 
-      style={buildButtonStyle(factor, bgColor, fgColor, selected)} 
+      style={buildButtonStyle(factor, bgColor, fgColor, selected, full)} 
       onPress={onPress}
     >
       <Text style={buildButtonTextStyle(factor, fgColor)}>{title}</Text>
@@ -48,14 +49,19 @@ function buildFactor(size) {
   return factor;
 }
 
-function buildButtonStyle(factor, bgColor, fgColor, selected) {
-  return [
+function buildButtonStyle(factor, bgColor, fgColor, selected, full) {
+  const btnStyle = [
     styles.btnArea,
     {minWidth: styles.btnArea.minWidth * factor},
     {height: styles.btnArea.height * factor},
     buildNoSelectedStyle(bgColor),
     buildSelectedStyle(bgColor, fgColor, selected)
   ];
+  
+  if (full)
+    btnStyle.push({width: '100%'});
+
+  return btnStyle;
 }
 
 function buildNoSelectedStyle(bgColor) {
