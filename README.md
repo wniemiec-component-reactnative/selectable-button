@@ -13,7 +13,7 @@
 <hr />
 
 ## ❇ Introduction
-React Native component that allows you to use a clickable button to perform a certain action, in addition to allowing the programmer to choose the button theme according to your preference.
+React Native component that allows you to press a button to perform a certain action, in addition to allowing the programmer to choose the button theme according to your preference.
 
 ## 🖼 Gallery
 
@@ -66,9 +66,9 @@ const [isSelected, setIsSelected] = useState(true);
 |title |`string`|Button label | - |
 |onPress |`function(void): void`|Function that is called when the button is pressed| - |
 |selected |`bool`|Clicked status | - |
-|bgColor |`string`|Background color (in hexadecimal)  |`#01786F`|
-|fgColor |`string`|Foreground color (in hexadecimal)  |`#FFFFFF`|
-|size |`string`|Button size (`big`, `regular` or `small`)  |`regular`|
+|bgColor |`string`|Background color (in hexadecimal)  |`"#01786F"`|
+|fgColor |`string`|Foreground color (in hexadecimal)  |`"#FFFFFF"`|
+|size |`string`|Button size (`big`, `regular` or `small`)  |`"regular"`|
 
 ## 🚩 Changelog
 Details about each version are documented in the [releases section](https://github.com/wniemiec-components-reactnative/selectable-button/releases).
