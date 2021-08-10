@@ -1,11 +1,11 @@
 {
   "name": "@wniemiec-component-reactnative/selectable-button",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple selectable button.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wniemiec-components-reactnative/selectable-button.git"
+    "url": "git+https://github.com/wniemiec-component-reactnative/selectable-button.git"
   },
   "keywords": [
     "wniemiec",
@@ -18,7 +18,7 @@
   "author": "William Niemiec <williamniemiec@hotmail.com> (https://www.linkedin.com/in/williamniemiec)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wniemiec-components-reactnative/selectable-button/issues"
+    "url": "https://github.com/wniemiec-component-reactnative/selectable-button/issues"
   },
-  "homepage": "https://github.com/wniemiec-components-reactnative/selectable-button#readme"
+  "homepage": "https://github.com/wniemiec-component-reactnative/selectable-button#readme"
 }

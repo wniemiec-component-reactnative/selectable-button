@@ -1,14 +1,14 @@
-![](https://github.com/wniemiec-components-reactnative/selectable-button/blob/master/docs/img/logo/logo.jpg)
+![](https://github.com/wniemiec-component-reactnative/selectable-button/blob/master/docs/img/logo/logo.jpg)
 
 <h1 align='center'>Selectable button</h1>
 <p align='center'>Simple selectable button.</p>
 <p align="center">
-	<a href="https://github.com/wniemiec-components-reactnative/selectable-button/actions/workflows/windows.yml"><img src="https://github.com/wniemiec-components-reactnative/selectable-button/actions/workflows/windows.yml/badge.svg" alt=""></a>
-	<a href="https://github.com/wniemiec-components-reactnative/selectable-button/actions/workflows/macos.yml"><img src="https://github.com/wniemiec-components-reactnative/selectable-button/actions/workflows/macos.yml/badge.svg" alt=""></a>
-	<a href="https://github.com/wniemiec-components-reactnative/selectable-button/actions/workflows/ubuntu.yml"><img src="https://github.com/wniemiec-components-reactnative/selectable-button/actions/workflows/ubuntu.yml/badge.svg" alt=""></a>
+	<a href="https://github.com/wniemiec-component-reactnative/selectable-button/actions/workflows/windows.yml"><img src="https://github.com/wniemiec-component-reactnative/selectable-button/actions/workflows/windows.yml/badge.svg" alt=""></a>
+	<a href="https://github.com/wniemiec-component-reactnative/selectable-button/actions/workflows/macos.yml"><img src="https://github.com/wniemiec-component-reactnative/selectable-button/actions/workflows/macos.yml/badge.svg" alt=""></a>
+	<a href="https://github.com/wniemiec-component-reactnative/selectable-button/actions/workflows/ubuntu.yml"><img src="https://github.com/wniemiec-component-reactnative/selectable-button/actions/workflows/ubuntu.yml/badge.svg" alt=""></a>
 	<a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React Native-0.60+-D0008F.svg" alt="React Native compatibility"></a>
 	<a href="https://www.npmjs.com/package/@wniemiec-component-reactnative/selectable-button"><img src="https://img.shields.io/npm/v/@wniemiec-component-reactnative/selectable-button" alt="Release"></a>
-	<a href="https://github.com/wniemiec-components-reactnative/selectable-button/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wniemiec-components-reactnative/selectable-button" alt="License"></a>
+	<a href="https://github.com/wniemiec-component-reactnative/selectable-button/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wniemiec-component-reactnative/selectable-button" alt="License"></a>
 </p>
 <hr />
 
@@ -18,15 +18,15 @@ React Native component that allows you to press a button to perform a certain ac
 ## 🖼 Gallery
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; flex-wrap: wrap"
-<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img1.png" alt="image 1" />
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-component-reactnative/selectable-button/master/docs/img/screens/img1.png" alt="image 1" />
 
-<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img2.png" alt="image 2" />
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-component-reactnative/selectable-button/master/docs/img/screens/img2.png" alt="image 2" />
 
-<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img3.png" alt="image 3" />
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-component-reactnative/selectable-button/master/docs/img/screens/img3.png" alt="image 3" />
 
-<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img4.png" alt="image 4" />
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-component-reactnative/selectable-button/master/docs/img/screens/img4.png" alt="image 4" />
 
-<img height=400 src="https://raw.githubusercontent.com/wniemiec-components-reactnative/selectable-button/master/docs/img/screens/img5.png" alt="image 5" />
+<img height=400 src="https://raw.githubusercontent.com/wniemiec-component-reactnative/selectable-button/master/docs/img/screens/img5.png" alt="image 5" />
 </div>
 
 ## ❓ How to use
@@ -72,10 +72,10 @@ const [isSelected, setIsSelected] = useState(true);
 |full |`boolean`|Indicates whether the width should be 100%  |`false`|
 
 ## 🚩 Changelog
-Details about each version are documented in the [releases section](https://github.com/wniemiec-components-reactnative/selectable-button/releases).
+Details about each version are documented in the [releases section](https://github.com/wniemiec-component-reactnative/selectable-button/releases).
 
 ## 🤝 Contribute!
-See the documentation on how you can contribute to the project [here](https://github.com/wniemiec-components-reactnative/selectable-button/blob/master/CONTRIBUTING.md).
+See the documentation on how you can contribute to the project [here](https://github.com/wniemiec-component-reactnative/selectable-button/blob/master/CONTRIBUTING.md).
 
 ## 📁 Files
 
