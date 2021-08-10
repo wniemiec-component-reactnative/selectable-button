@@ -15,16 +15,16 @@ import styles from './styles';
 /**
  * Simple selectable button.
  * 
- * @param   {string} title: Button label
- * @param   {function(void): void} onPress: Function that is called when the 
+ * @param   {string} title Button label
+ * @param   {function(void): void} onPress Function that is called when the 
  *          button is pressed
- * @param   {bool} selected: Clicked status
- * @param   {string} bgColor: Background color (in hexadecimal) 
- * @param   {string} fgColor: Foreground color (in hexadecimal)
- * @param   {string} size: Button size
- * @param   {boolean} full: Indicates whether the width should be 100%
+ * @param   {bool} selected Clicked status
+ * @param   {string} [bgColor='#01786F'] Background color (in hexadecimal) 
+ * @param   {string} [fgColor='#FFFFFF'] Foreground color (in hexadecimal)
+ * @param   {string} [size='regular'] Button size
+ * @param   {boolean} [full=false] Indicates whether the width should be 100%
  */
-export default function SelectableButton({ title, onPress, selected, bgColor="#01786F", fgColor="#ffffff", size='regular', full=false }) {
+export default function SelectableButton({ title, onPress, selected, bgColor='#01786F', fgColor='#FFFFFF', size='regular', full=false }) {
 
   const factor = buildFactor(size.toLowerCase().trim());
 
