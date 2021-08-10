@@ -33,7 +33,6 @@ export default function SelectableButton({
   size='regular', 
   full=false 
 }) {
-
   const factor = buildFactor(size);
 
   return (

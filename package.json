@@ -1,7 +1,7 @@
 {
   "name": "@wniemiec-component-reactnative/selectable-button",
   "version": "1.0.1",
-  "description": "Simple selectable button",
+  "description": "Simple selectable button.",
   "main": "index.js",
   "repository": {
     "type": "git",
